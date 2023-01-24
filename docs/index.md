@@ -7,8 +7,10 @@
 * [Prototype 3][p3]: a (possibly) endless runner
 
 [p1]: <https://game-design-and-programming.github.io/Prototypes/prototype-1/>
-[p2]: <prototype-2/>
-[p3]: <prototype-3/>
+[p2]: <https://game-design-and-programming.github.io/Prototypes/prototype-2/>
+[p3]: <https://game-design-and-programming.github.io/Prototypes/prototype-3/>
+[p4]: <https://game-design-and-programming.github.io/Prototypes/prototype-4/>
+[p5]: <https://game-design-and-programming.github.io/Prototypes/prototype-5/>
 
 ## First Semester Final Projects
 
