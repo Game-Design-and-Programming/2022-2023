@@ -15,4 +15,8 @@
 
 ## First Semester Final Projects
 
+* [Defend the Crystal][dtc]:
+
+[dtc]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DefendTheCrystal/index.html>
+
 ## AMES Showcase Entries
