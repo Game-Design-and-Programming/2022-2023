@@ -16,7 +16,9 @@
 ## First Semester Final Projects
 
 * [Defend the Crystal][dtc]: don't let the zombies get to the crystal -- or to you!
+* [Dog Dodger][dd]: dodge the dogs and win.
 
 [dtc]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DefendTheCrystal/index.html>
+[dd]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DogDodger/index.html>
 
 ## AMES Showcase Entries
