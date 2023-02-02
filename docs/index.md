@@ -15,7 +15,7 @@
 
 ## First Semester Final Projects
 
-* [Defend the Crystal][dtc]:
+* [Defend the Crystal][dtc]: don't let the zombies get to the crystal -- or to you!
 
 [dtc]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DefendTheCrystal/index.html>
 
