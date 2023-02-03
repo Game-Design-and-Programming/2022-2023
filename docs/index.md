@@ -17,8 +17,10 @@
 
 * [Defend the Crystal][dtc]: don't let the zombies get to the crystal -- or to you!
 * [Dog Dodger][dd]: dodge the dogs and win.
+* [Maze Walker][mw]: a maze with two levels and doors.
 
 [dtc]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DefendTheCrystal/index.html>
 [dd]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DogDodger/index.html>
+[mw]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/MazeWalker/index.html>
 
 ## AMES Showcase Entries
