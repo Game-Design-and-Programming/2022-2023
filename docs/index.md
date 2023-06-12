@@ -23,4 +23,16 @@
 [dd]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/DogDodger/index.html>
 [mw]: <https://game-design-and-programming.github.io/2022-2023/1st-semester-projects/MazeWalker/index.html>
 
-## AMES Showcase Entries
+## Second Semester Final Projects
+
+### 4th Block
+
+[]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/4th-block/>
+
+### 5th Block
+
+[]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/5th-block/>
+
+### 6th Block
+
+[]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/6th-block/>
