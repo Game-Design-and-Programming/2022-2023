@@ -33,7 +33,7 @@
 
 * [Rocks][rocks]
 
-[rocks]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Rocks>
+[rocks]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Rocks/index.html>
 
 ### 6th Block
 
