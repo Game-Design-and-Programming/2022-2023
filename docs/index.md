@@ -27,14 +27,14 @@
 
 ### 4th Block
 
-[]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/4th-block/>
+[]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/4th-block/>
 
 ### 5th Block
 
 * [Rocks][rocks]
 
-[rocks]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/5th-block/Rocks>
+[rocks]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Rocks>
 
 ### 6th Block
 
-[]: <https://game-design-and-programming.githup.io/2022-2023/2nd-semester-projects/6th-block/>
+[]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/>
