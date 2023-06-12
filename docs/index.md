@@ -37,11 +37,11 @@
 
 ### 6th Block
 
-[Professional Ball Handler][pbh]
-[Fighting Simulator][fs]
-[The Lost Wizard][tlw]
+* [Professional Ball Handler][pbh]
+* [Fighting Simulator][fs]
+* [The Lost Wizard][tlw]
 
-[The Last Sphere][tls]
+* [The Last Sphere][tls]
 
 [pbh]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Professional-Ball-Handler/index.html>
 [fs]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Fighting-Simulator/index.html>
