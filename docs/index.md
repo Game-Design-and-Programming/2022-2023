@@ -37,14 +37,16 @@
 
 ### 6th Block
 
-* [Professional Ball Handler][pbh]
 * [Fighting Simulator][fs]
+* [Hallway][h]
 * [The Lost Wizard][tlw]
+* [Professional Ball Handler][pbh]
 
 * [The Last Sphere][tls]
 
-[pbh]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Professional-Ball-Handler/index.html>
 [fs]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Fighting-Simulator/index.html>
+[h]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Hallway/index.html>
 [tlw]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/The-Lost-Wizard/index.html>
+[pbh]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Professional-Ball-Handler/index.html>
 
 [tls]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/The-Last-Sphere/index.html>
