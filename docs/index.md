@@ -40,6 +40,7 @@
 ### 5th Block
 
 * [Capsules][cap]
+* [Final Game][fg]
 * [The Grilla Exhibit][tge]
 * [Rocks][rocks]
 * [Samurai Warrior][sw]
@@ -48,6 +49,7 @@
 * [Spool][spool]
 
 [cap]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Capsules/index.html>
+[fg]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Final-Game/index.html>
 [tge]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/The-Grilla-Exhibit/index.html>
 [rocks]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Rocks/index.html>
 [sw]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Samuari-Warrior/index.html>
