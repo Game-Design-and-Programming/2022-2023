@@ -35,9 +35,21 @@
 
 ### 5th Block
 
+* [Capsules][cap]
+* [The Grilla Exhibit][tge]
 * [Rocks][rocks]
+* [Samurai Warrior][sw]
+* [Tanky][tanky]
 
+* [Spool][spool]
+
+[cap]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Capsules/index.html>
+[tge]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/The-Grilla-Exhibit/index.html>
 [rocks]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Rocks/index.html>
+[sw]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Samuari-Warrior/index.html>
+[tanky]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Tanky/index.html>
+
+[spool]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/5th-block/Spool/index.html>
 
 ### 6th Block
 
