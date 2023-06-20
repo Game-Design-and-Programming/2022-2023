@@ -64,6 +64,7 @@
 * [Hallway][h]
 * [The Lost Wizard][tlw]
 * [Monsteria][monsteria]
+* [Obstacle Course][oc]
 * [Professional Ball Handler][pbh]
 * [Survive the Cave][stc]
 
@@ -74,6 +75,7 @@
 [h]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Hallway/index.html>
 [tlw]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/The-Lost-Wizard/index.html>
 [monsteria]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Monsteria/index.html>
+[oc]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Obstacle-Course/index.html>
 [pbh]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Professional-Ball-Handler/index.html>
 [stc]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Survive-the-Cave/index.html>
 
