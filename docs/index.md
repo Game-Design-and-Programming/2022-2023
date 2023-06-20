@@ -59,6 +59,7 @@
 
 ### 6th Block
 
+* [Dungeon Prototype][dp]
 * [Fighting Simulator][fs]
 * [Hallway][h]
 * [The Lost Wizard][tlw]
@@ -67,6 +68,7 @@
 
 * [The Last Sphere][tls]
 
+[dp]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Dungeon-Prototype/index.html>
 [fs]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Fighting-Simulator/index.html>
 [h]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/Hallway/index.html>
 [tlw]: <https://game-design-and-programming.github.io/2022-2023/2nd-semester-projects/6th-block/The-Lost-Wizard/index.html>
